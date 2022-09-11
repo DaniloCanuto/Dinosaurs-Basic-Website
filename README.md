@@ -5,4 +5,4 @@ In this exercise, the objective was to create a basic website structure with HTM
 
 Future Improvements: Add aditional pages about different types of dinosaurs.
 
-Usage: Practice HTML, Tags, Link, Img, CSS, External CSS.
+Usage: Practice HTML, Tags, Link, Img, Fonts, Borders, Colors, CSS, External CSS.
